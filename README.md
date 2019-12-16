@@ -4,7 +4,7 @@ Built a recommendation system to predict the ratings a user will give to a set o
 
 ## Dataset
 https://www.yelp.com/dataset <br>
-Yelp dataset contains restaurants' data and user reviews and ratings for each restaurant. <br>
+Yelp dataset contains restaurants data, user reviews and ratings for each restaurant. <br>
 60% of dataset is used to train the recommedation engine and 40% is used as test data.
 
 ## Approach 
