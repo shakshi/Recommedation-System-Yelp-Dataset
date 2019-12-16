@@ -32,9 +32,9 @@ Root Mean Square Error: <br>
 Error Distribution: <br>
  >=0 and <1: 100354  <br>
  >=1 and <2: 34171 <br>
- >=2 and <3: 6646 \\
- >=3 and <4: 869 \\
- >=4 : 4 \\
+ >=2 and <3: 6646 <br>
+ >=3 and <4: 869 <br>
+ >=4 : 4 <br>
 
 
 
