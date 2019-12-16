@@ -3,7 +3,8 @@
 Built a recommendation system to predict the ratings a user will give to a set of businesses. Yelp dataset is mined to extract interesting and useful information about businesses and users. 
 
 ## Dataset
-Yelp dataset contains restaurants' data and user reviews and ratings for each restaurant.
+Yelp dataset contains restaurants' data and user reviews and ratings for each restaurant. <br>
+60% of dataset is used to train the recommedation engine and 40% is used as test data.
 
 ## Approach 
 The system is a hybrid recommendation system. 
@@ -20,3 +21,20 @@ Good for Groups (Yes/ No) <br>
 Has TV (Yes/No) <br> 
 Alcohol (None, Beer & Wine, Full Bar)  <br>
 Noise Level (Quiet, Average, Loud, Very Loud)  <br>
+
+
+## Accuracy 
+Performance of the recommendation system on test dataset \\
+
+Root Mean Square Error: \\
+0.99964169775013 \\
+
+Error Distribution: \\
+>=0 and <1: 100354 \\
+>=1 and <2: 34171 \\
+>=2 and <3: 6646 \\
+>=3 and <4: 869 \\
+>=4 : 4 \\
+
+
+
