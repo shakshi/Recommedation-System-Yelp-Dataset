@@ -25,7 +25,7 @@ Noise Level (Quiet, Average, Loud, Very Loud)  <br>
 
 
 ## Accuracy 
-Performance of the recommendation system on test dataset \\
+Performance of the recommendation system on test dataset <br>
 
 Root Mean Square Error: <br>
 0.99964169775013 <br>
